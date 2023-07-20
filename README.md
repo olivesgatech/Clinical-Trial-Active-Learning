@@ -2,7 +2,7 @@
 
 To run prospective active learning, type in a terminal window:
 ```
-run-retro-prosp-learning.py --visit_mode=yes --forgetting_mode='fixed' (or 'dynamic')
+run-retro-prosp-learning.py --visit_mode='yes' --forgetting_mode='fixed' (or 'dynamic')
 ```
 
 To run retrospective active learning, type in a terminal window:
